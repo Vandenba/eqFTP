@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>  <title> Alex VandenBosch </title>
+    <link type="text/css" rel="stylesheet" href="style.sheet1.html">
+    </head>
+    
+    <body>
+        <div id="header">
+			<p id="name">Alex VandenBosch</p>
+			<a href="mail to:https://www.google.com/?gws_rd=ssl"><p id="email">vandenba16@hamiltonschools.us.com</p></a>
+		</div>
+        
+		<div class="left">
+        <script type="text/javascript"> 
+var i = 0; 
+var image = new Array();   
+// LIST OF IMAGES 
+image[0] = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT7knuTq85p5RFo20j1Skjypsj7YG8ZFn63xQW9r39DnMU8AvT"; 
+image[1] = "data:image/png;base64,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"; 
+image[2] = "https://pbs.twimg.com/profile_images/626749257538752512/l9Qy9Axu.jpg";    
+var k = image.length-1;    
+
+var caption = new Array(); 
+
+// LIST OF CAPTİONS  
+caption[0] = "Hamilton High School"; 
+caption[1] = "Innotec"; 
+caption[2] = "Careerline Tech Center";   
+
+function swapImage(){ 
+var el = document.getElementById("mydiv"); 
+el.innerHTML=caption[i]; 
+var img= document.getElementById("slide"); 
+img.src= image[i];  
+if(i < k ) { i++;}  
+else  { i = 0; } 
+setTimeout("swapImage()",3600);  
+} 
+
+function addLoadEvent(func) { 
+var oldonload = window.onload; 
+if (typeof window.onload != 'function') { 
+window.onload = func; 
+} 
+else { 
+window.onload = function() { 
+if (oldonload) { 
+oldonload(); 
+} 
+func();}}}  
+addLoadEvent(function() { 
+swapImage(); });  
+</script> 
+
+<table style="border:3px solid #000000;background-color:#A60000;"> 
+<tr> 
+<td> 
+<img name="slide" id="slide" alt ="my images" height="246" width="425" src="image_1.gif"/> 
+</td> 
+</tr> 
+<tr> 
+<td align="center"style="font:small-caps bold 15px georgia; color:white;"> 
+<div id ="mydiv"></div> 
+</tr> 
+</td> 
+</table> </div>
+        
+		<div class="right">
+        
+        <h4>Objective</h4>
+			<p>
+                To help the company in being profitable and offer solutions.
+            </p>
+            
+        <h4>Experience</h4>
+			<p>
+                IT team member, Innotec (2015 - Present)
+                </p>
+			<ul>
+				<li>Designed and implemented automatic printer supplying system</li>
+				<li>Purchasing and purchase tracking</li>
+			</ul>
+            
+        <h4>Skills</h4>
+			<p>Certifications: OSAH 10 hour, Strata, CSS</p>
+			<p>Courses: Computers, HTML, PC and Net Tech</p>
+            
+        <h4>Education</h4>
+			<table border="1px">
+                <tr>
+                    <td> Hamilton High School</td>
+                    <td> GPA: 3.0</td>
+                    <td> Basic Tech Classes <td>
+                </tr>
+                <tr>
+                    <td> Careerline Tech Center</td>
+                    <td> GPA: 3.7</td>
+                    <td> Pc and Net Tech</td>
+                </tr>
+            
+            </table>
+		</div>
+		<div id="footer">
+			<p> 48th Street, Hamilton, Michigan 49419 | Tel: (616) 414-3300</p>
+		</div>
+	</body>
+</html>
